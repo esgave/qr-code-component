@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+  - [Screenshot](#links)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,6 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
+
+### Screenshot
+
+![See screenshot](./screenshot.jpg)
 
 ### Links
 
@@ -38,8 +43,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 Esther García 
-- Frontend Mentor - [@esgave](https://www.frontendmentor.io/profile/esgave)
-- Github - [@esgave](https://github.com/esgave)
+- Frontend Mentor - [esgave](https://www.frontendmentor.io/profile/esgave)
+- Github - [esgave](https://github.com/esgave)
 
 ## Acknowledgments
 
