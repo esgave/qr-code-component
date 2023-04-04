@@ -2,8 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Overview
-
 ### Screenshot
 
 ![See screenshot](./screenshot.png)
@@ -21,9 +19,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned 
 
-- I learned how to center elements on the page horizontally and vertically using flexbox
+- I learned to center elements on the page horizontally and vertically using flexbox
 - I learned about landmarks and their importance 
 
 ### Acknowledgments
 
-- [Pedro Belmonte](https://github.com/pedrobelmonte8)
+- [Pedro Belmonte](https://github.com/pedrobelmonte8) Thanks for your help and support
