@@ -27,12 +27,11 @@ h1 {
     font-weight: 700;
 }
 
-.container-parent {
-    height: 100vh;
+.container-parent { 
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
+    height: 95vh;
 }
 
 .container {
