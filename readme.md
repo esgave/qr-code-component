@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,11 +19,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![See screenshot](./screenshot.png)
-
-### Links
-
-- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-LL48-YYW8S)
-- [Live site URL](https://esgave.github.io/qr-code-component/)
 
 ### Built with
 
