@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
 ## Table of contents
 
@@ -18,20 +18,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
-
 ### Screenshot
 
 ![See screenshot](./screenshot.png)
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-LL48-YYW8S](https://your-solution-url.com)
+-[Solution URL:](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-LL48-YYW8S)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
