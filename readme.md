@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL [- Solution URL:](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-LL48-YYW8S)
+- [Solution URL:](https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-LL48-YYW8S)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -46,7 +46,7 @@ This was my first project and I really enjoyed myself. Centering the container h
 ```
 ### Useful resources
 
-- [Stack Overflow](https://stackoverflow.com/questions/31217268/center-div-on-the-middle-of-screen) - This was helpful to understand better how vertical and horizontal alignment work. 
+- [Stack Overflow](https://stackoverflow.com/questions/31217268/center-div-on-the-middle-of-screen) - This was helpful to better understand how vertical and horizontal alignment work. 
 
 ### Acknowledgments
 
