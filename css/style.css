@@ -6,6 +6,10 @@
 }
 
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
     background-color: var(--light-gray);
     font-family: 'Outfit', sans-serif;
 }
@@ -27,23 +31,16 @@ h1 {
     font-weight: 700;
 }
 
-.container-parent { 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 95vh;
+img {
+    width: 100%;
+    border-radius: 10px;
 }
 
-.container {
+.card {
     width: 300px;
     background-color: var(--white);
     border-radius: 25px;
     padding: 15px;
-}
-
-img {
-    width: 100%;
-    border-radius: 10px;
 }
 
 .text-info {
